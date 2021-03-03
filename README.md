@@ -1,0 +1,2 @@
+# Paxos
+Implement of Paxos
